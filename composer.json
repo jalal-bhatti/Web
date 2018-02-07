@@ -1,5 +1,5 @@
 {
-    "name": "vdc/helloworld",
+    "name": "web/helloworld",
     "description": "helloworld",
     "minimum-stability": "dev",
     "require": {
@@ -15,7 +15,7 @@
             "registration.php"
         ],
 	"psr-4": {
-            "Vdc\\Helloworld\\": ""
+            "web\\Helloworld\\": ""
         }    
 }
 }
